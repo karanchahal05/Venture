@@ -15,7 +15,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/style.css" rel="stylesheet" type="text/css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <link href="font-awesome-6-pro-main/css/all.css" rel="stylesheet">
     <link type="image/png" rel="shortcut icon" href="IMG/logo.png">
     <script type="text/javascript" src="functions.js"></script>
     <title>VentureAnalytica</title>
