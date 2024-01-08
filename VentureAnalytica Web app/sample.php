@@ -1,7 +1,7 @@
 <?php 
     $ch = curl_init();
 
-    $OPENAI_API_KEY = "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";
+    $OPENAI_API_KEY = "API_KEY";
 
     $headers = [
         "Content-Type: application/json",
